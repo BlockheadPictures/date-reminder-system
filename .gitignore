@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local reminder data
+reminders.json
+
+# macOS system files
+.DS_Store
+
+# Virtual environment
+venv/
+
